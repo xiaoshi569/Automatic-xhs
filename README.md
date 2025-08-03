@@ -10,7 +10,7 @@
 
 # 插件使用方法：
 第一种，直接拖动crx文件到浏览器。
-第二种，浏览器打开chrome://extensions/  把开发者模式打开，加载已解压的扩展程序，选择dist文件夹。
+第二种，浏览器打开chrome://extensions/  把开发者模式打开，加载已解压的扩展程序，选择项目文件夹。
 
 # 功能介绍：
 https://acnvzmv5xi3x.feishu.cn/wiki/LjxtwMMYGiXuOvkOTQYcHvWcnOg  
