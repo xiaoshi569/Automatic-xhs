@@ -6,6 +6,14 @@
 直接拖动crx文件到浏览器！
 免费使用，防止盗卖，不开源！
 随缘更新！
+免费授权码：https://pan.quark.cn/s/420589e392f9 （网盘自取，防止盗卖）
+
+插件使用方法，
+第一种，直接拖动crx文件到浏览器
+第二种，浏览器打开chrome://extensions/  把开发者模式打开，加载已解压的扩展程序，选择dist文件夹
+
+功能介绍：
+https://acnvzmv5xi3x.feishu.cn/wiki/LjxtwMMYGiXuOvkOTQYcHvWcnOg  
 
 #注意事项
 
