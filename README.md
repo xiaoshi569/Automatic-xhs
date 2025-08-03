@@ -28,7 +28,7 @@ https://acnvzmv5xi3x.feishu.cn/wiki/LjxtwMMYGiXuOvkOTQYcHvWcnOg
 
 使用者在下载、安装、运行或使用本工具时，即表示已阅读并同意本免责声明。如有异议，请立即停止使用本工具，并删除所有相关文件
 
-插件截图
+# 插件截图
 
 <img width="466" height="604" alt="image" src="https://github.com/user-attachments/assets/a8645ad0-1a7c-4f28-95ec-5f699f843c9a" />
 <img width="428" height="684" alt="image" src="https://github.com/user-attachments/assets/26048ed4-13bf-483b-ae94-2c101dd7e9c1" />
