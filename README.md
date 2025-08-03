@@ -6,8 +6,8 @@
 直接拖动crx文件到浏览器！
 免费使用，防止盗卖，不开源！
 随缘更新！
-<img width="466" height="604" alt="image" src="https://github.com/user-attachments/assets/a8645ad0-1a7c-4f28-95ec-5f699f843c9a" />
-<img width="428" height="684" alt="image" src="https://github.com/user-attachments/assets/26048ed4-13bf-483b-ae94-2c101dd7e9c1" />
+
+#注意事项
 
 项目仅用于学习用途
 
@@ -22,5 +22,9 @@
 保留随时修改、更新、删除或终止本工具的权利，无需事先通知或承担任何义务
 
 使用者在下载、安装、运行或使用本工具时，即表示已阅读并同意本免责声明。如有异议，请立即停止使用本工具，并删除所有相关文件
+<img width="466" height="604" alt="image" src="https://github.com/user-attachments/assets/a8645ad0-1a7c-4f28-95ec-5f699f843c9a" />
+<img width="428" height="684" alt="image" src="https://github.com/user-attachments/assets/26048ed4-13bf-483b-ae94-2c101dd7e9c1" />
+
+
 
 
