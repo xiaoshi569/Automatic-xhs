@@ -1,4 +1,4 @@
-## 红薯养号浏览器插件
+## 红薯AI养号浏览器插件助手
 免费使用但不开源
 授权码更新下载地址，失效重新自取
 链接：https://pan.quark.cn/s/baed7af5f513
@@ -61,4 +61,5 @@
 - 不勾选：仅发送文本内容
 
 ---
+<img width="459" height="623" alt="image" src="https://github.com/user-attachments/assets/eeee9fbc-62c3-4cdc-9827-693ba4239771" />
 
