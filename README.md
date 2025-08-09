@@ -1,7 +1,7 @@
 ## 红薯AI养号浏览器插件助手
 免费使用但不开源
 授权码更新下载地址，失效重新自取
-链接：https://pan.quark.cn/s/baed7af5f513
+链接https://pan.quark.cn/s/ec969e8d8b17
 
 ## 版本更新日志
 
